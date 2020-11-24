@@ -9,7 +9,7 @@ import sys
 # import pandas as pd
 
 DATA_PATH = 'data/'
-DATASET_PATH = DATA_PATH + 'temperatures.csv'
+DATASET_PATH = DATA_PATH + 'filtered_temperatures.csv'
 CURATED_LOCAL_PATH = DATA_PATH + 'curated/'
 COUNTRY = 'country/'
 REGION = 'region/'
